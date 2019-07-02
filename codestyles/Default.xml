@@ -2,4 +2,7 @@
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
   </Objective-C>
+  <clangFormatSettings>
+    <option name="ENABLED" value="true" />
+  </clangFormatSettings>
 </code_scheme>
